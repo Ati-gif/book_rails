@@ -13,3 +13,10 @@
  *= require_tree .
  *= require_self
  */
+
+div {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+  color: rgba(78, 134, 115, 0.801);
+  background-color: rgb(212, 240, 253);
+}
